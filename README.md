@@ -21,9 +21,9 @@ FXMLDocumentController
 FXMLDocument.fxml
 
 ## Next steps:
-[ ] Refactoring
-[ ] Use iterators
-[ ] Improve AI
-[ ] Exception handling
-[ ] Wildcards
-[ ] Improve UI
+- [ ] Refactoring
+- [ ] Use iterators
+- [ ] Improve AI
+- [ ] Exception handling
+- [ ] Wildcards
+- [ ] Improve UI
